@@ -1,0 +1,23 @@
+﻿'LinkedList.exe' (Win32): Loaded 'C:\Users\redhe\Documents\Programs\LinkedList\Debug\LinkedList.exe'. Symbols loaded.
+'LinkedList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'LinkedList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'LinkedList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'LinkedList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Cannot find or open the PDB file.
+'LinkedList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'LinkedList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'LinkedList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'LinkedList.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ucrtbased.dll'
+The thread 0x878 has exited with code 0 (0x0).
+The thread 0xbe4 has exited with code 0 (0x0).
+The thread 0x112c has exited with code 0 (0x0).
+'LinkedList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Cannot find or open the PDB file.
+'LinkedList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'LinkedList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'LinkedList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Cannot find or open the PDB file.
+'LinkedList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'LinkedList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'LinkedList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+The thread 0xa34 has exited with code 0 (0x0).
+The thread 0x205c has exited with code 0 (0x0).
+The thread 0x1f04 has exited with code 0 (0x0).
+The program '[18276] LinkedList.exe' has exited with code 0 (0x0).
